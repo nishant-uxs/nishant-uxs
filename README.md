@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nishant Agarwal</h1>
-<h3 align="center">🚀 Blockchain Developer | Web3 | Backend Systems</h3>
+<h3 align="center">🚀 Blockchain Developer | Backend & Web3 Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Blockchain+Developer;ZKP+Enthusiast;Full-Stack+Builder;Web3+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Blockchain+Developer;Web3+Builder;Backend+Engineer;Full-Stack+Developer" />
 </p>
 
 <p align="center">
@@ -18,9 +18,15 @@
 
 ## 🌐 Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/nishant-agarwal-62a956322/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<p align="center">
+<a href="https://www.linkedin.com/in/nishant-agarwal-62a956322/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://x.com/Nishant36608237">
+<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
+<a href="https://www.instagram.com/nishant.agarwal__/">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 </p>
 
@@ -28,28 +34,28 @@
 
 ## 💡 About Me
 
-- 🔭 Currently working on **Blockchain & Web3 Applications**
-- 🔐 Building privacy-focused systems using **Zero-Knowledge Proofs (ZKP)**
-- 🧠 Interested in **Blockchain Infrastructure & Backend Engineering**
-- ⚡ Active in **Hackathons & Real-World Project Development**
+- ⛓️ Building **Blockchain & Web3 Applications**  
+- 🧠 Strong interest in **Backend Systems & Scalable Architectures**  
+- 🛠️ Experience in **smart contracts, APIs, and full-stack development**  
+- ⚡ Active in **hackathons and real-world project development**
 
 ---
 
 ## 🔥 Featured Projects
 
 ### ⛓️ BlockForge  
-🔹 Decentralized academic assessment system  
-🔹 ~92% gas optimization using IPFS + CID  
-🔹 Smart contracts + MetaMask + full-stack dApp  
+🚀 Decentralized academic assessment system  
+⚡ ~92% gas optimization using IPFS + CID  
+🔐 Smart contracts + MetaMask  
 
-👉 [🚀 Live Demo](YOUR_LINK_HERE)
+👉 <a href="YOUR_LINK_HERE"><b>Live Demo 🚀</b></a>
 
 ---
 
 ### 🔐 Krydo  
-🔹 Privacy-preserving financial trust system  
-🔹 ZKP-based verification  
-🔹 Decentralized identity + secure data sharing  
+🔍 Blockchain-based financial trust system  
+🔐 Secure identity verification system  
+🏗️ Focus on trustless architecture  
 
 ---
 
@@ -61,7 +67,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contribution
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nishant-uxs&show_icons=true&theme=tokyonight" />
@@ -72,7 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-uxs&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishant-uxs&theme=tokyo-night" />
 </p>
 
 ---
@@ -87,8 +93,7 @@
 
 ## 📄 Research
 
-- 📝 BlockForge: Blockchain-Based Academic Assessment System  
-  - Under Review (NetCrypt 2026)
+- 📝 BlockForge – Under Review (NetCrypt 2026)
 
 ---
 
@@ -100,10 +105,16 @@
 
 ---
 
-## ⚡ Fun Fact
+## 📫 Contact Me
 
-💡 I build systems that are **trustless, scalable, and real-world ready**
+📧 Email: agarwalnishant812@gmail.com  
 
 ---
 
-⭐ *Always building, always learning, and pushing towards decentralized future*
+## ⚡ Fun Fact
+
+💡 I enjoy building **real-world scalable systems and decentralized applications**
+
+---
+
+⭐ *Always building, always learning 🚀*
