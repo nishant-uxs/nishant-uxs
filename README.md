@@ -35,7 +35,7 @@ $ whoami
 | **Education** | B.Tech CSE, Bennett University · GPA 8.86/10 |
 | **Experience** | Web3 Blockchain Developer Intern @ Digital South Trust |
 | **Research** | BlockForge — **Accepted**, NetCrypt 2026 |
-| **Open Source** | [wevm/viem #4903](https://github.com/wevm/viem/pull/4903) merged |
+| **Open Source** | [hardhat-website #288](https://github.com/NomicFoundation/hardhat-website/pull/288) · [viem #4903](https://github.com/wevm/viem/pull/4903) merged |
 | **Location** | India |
 
 <br/>
@@ -125,13 +125,15 @@ Business trust & reputation on Stellar Soroban
 </td>
 <td width="50%" valign="top">
 
-**wevm/viem** — merged contribution
+**Merged upstream contributions**
 
-Fixed ESM module type generation for the generated `_types` package, improving TypeScript NodeNext compatibility.
+| Project | PR | What |
+|:---|:---|:---|
+| [NomicFoundation/hardhat-website](https://github.com/NomicFoundation/hardhat-website) | [#288](https://github.com/NomicFoundation/hardhat-website/pull/288) | Node.js min version docs → v22.13.0 |
+| [wevm/viem](https://github.com/wevm/viem) | [#4903](https://github.com/wevm/viem/pull/4903) | ESM `_types` package fix |
 
 <br/>
 
-[![PR #4903](https://img.shields.io/badge/PR_%234903-Merged-166534?style=for-the-badge&logo=github)](https://github.com/wevm/viem/pull/4903)
 [![All contributions](https://img.shields.io/badge/All_Contributions-0f172a?style=for-the-badge)](https://github.com/nishant-uxs/nishant-uxs/blob/main/OPEN_SOURCE.md)
 
 </td>
@@ -164,7 +166,7 @@ Fixed ESM module type generation for the generated `_types` package, improving T
 - Shipping backend services @ **Digital South Trust** (Crypto Suraksha)
 - Engineering ZK credential infrastructure on Ethereum (**Krydo**)
 - Preparing **NetCrypt 2026** conference presentation
-- Contributing to Web3 open source (**wevm/viem**)
+- Contributing to Web3 open source (**NomicFoundation/hardhat-website**, **wevm/viem**)
 
 <br/>
 
