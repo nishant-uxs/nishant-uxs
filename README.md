@@ -1,100 +1,120 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Nishant%20Agarwal&fontSize=46&fontColor=fff&stroke=8B5CF6" />
 
-# Nishant Agarwal
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=500&lines=backend+systems;smart+contracts;zero-knowledge+proofs;production+Web3+engineering" alt="Typing SVG" />
+</p>
 
-### backend systems · smart contracts · zero-knowledge proofs
+<p align="center">
+  <i>building systems where cryptography meets production engineering</i>
+</p>
 
-Building production-grade Web3 infrastructure — from REST APIs to on-chain credential systems.
+<p align="center">
+  <a href="https://nishantx.in"><img src="https://img.shields.io/badge/Portfolio-nishantx.in-0d1117?style=for-the-badge&logo=googlechrome&logoColor=8B5CF6" /></a>
+  <a href="https://raw.githubusercontent.com/nishant-uxs/nishant-uxs/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-0d1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000" /></a>
+  <a href="https://www.linkedin.com/in/nishant-agarwal-62a956322/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:agarwalnishant812@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+</p>
 
-<br/>
+<p align="center">
+  <code>B.Tech CSE · Bennett University · CGPA 8.86</code>
+  &nbsp;·&nbsp;
+  <code>Web3 Intern @ Digital South Trust</code>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/nishantx.in-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nishantx.in)
-[![Resume](https://img.shields.io/badge/Resume-PDF-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://raw.githubusercontent.com/nishant-uxs/nishant-uxs/main/resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-agarwal-62a956322/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agarwalnishant812@gmail.com)
-
-<br/>
-
-```
-B.Tech CSE · Bennett University · CGPA 8.86
-Web3 Intern @ Digital South Trust
-```
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B5CF6,6366F1,3B82F6&height=60&section=footer&text=&fontSize=0" width="100%" />
 
 ---
 
-## `> stack`
+<h3 align="center">⚡ stack</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zero--Knowledge-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,solidity,nodejs,react,postgres,git,githubactions&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zero--Knowledge-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ---
 
-## `> featured`
+<h3 align="center">🚀 featured</h3>
+
+<p align="center">
+  <i>four systems. one obsession — ship real engineering.</i>
+</p>
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Krydo
-Privacy-preserving financial identity on Ethereum.
+<img src="https://img.shields.io/badge/Krydo-8B5CF6?style=for-the-badge&logo=ethereum&logoColor=white" />
 
-Sigma-protocol ZK proofs · Pedersen commitments · W3C Verifiable Credentials · 154 tests · 3 Sepolia contracts
+```
+privacy-preserving identity
+sigma-protocol ZK · secp256k1
+154 tests · 3 Sepolia contracts
+```
 
-<br/>
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/nishant-uxs/krydo)
-[![Live](https://img.shields.io/badge/Live-krydo.onrender.com-00C7B7?style=flat-square&logo=render&logoColor=white)](https://krydo.onrender.com)
+<p>
+  <a href="https://github.com/nishant-uxs/krydo"><img src="https://img.shields.io/badge/code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://krydo.onrender.com"><img src="https://img.shields.io/badge/live-00C7B7?style=flat-square&logo=render&logoColor=white" /></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🏛️ CivicSense
-Blockchain-verified civic issue reporting.
+<img src="https://img.shields.io/badge/CivicSense-3B82F6?style=for-the-badge&logo=ethereum&logoColor=white" />
 
-3-step on-chain lifecycle · hybrid Supabase/Sepolia · Gemini triage · 10 REST routes
+```
+civic reporting · on-chain audit trail
+hybrid Supabase/Sepolia · Gemini AI
+10 REST routes · 12 React pages
+```
 
-<br/>
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/nishant-uxs/CivicSense)
-[![Live](https://img.shields.io/badge/Live-civic--sense-000000?style=flat-square&logo=vercel&logoColor=white)](https://civic-sense-six.vercel.app)
+<p>
+  <a href="https://github.com/nishant-uxs/CivicSense"><img src="https://img.shields.io/badge/code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://civic-sense-six.vercel.app"><img src="https://img.shields.io/badge/live-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 BlockForge
-Decentralized lab assessment platform.
+<img src="https://img.shields.io/badge/BlockForge-6366F1?style=for-the-badge&logo=ipfs&logoColor=white" />
 
-OpenZeppelin RBAC · IPFS + on-chain CIDs · Gemini AI grading · ~92% storage reduction
+```
+decentralized lab assessment
+OpenZeppelin RBAC · IPFS CIDs
+~92% on-chain storage reduction
+```
 
-<br/>
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/nishant-uxs/labeval)
-[![Live](https://img.shields.io/badge/Live-blockchain--labeval-00C7B7?style=flat-square&logo=render&logoColor=white)](https://blockchain-labeval.onrender.com)
+<p>
+  <a href="https://github.com/nishant-uxs/labeval"><img src="https://img.shields.io/badge/code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://blockchain-labeval.onrender.com"><img src="https://img.shields.io/badge/live-00C7B7?style=flat-square&logo=render&logoColor=white" /></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤝 TrustMesh
-Decentralized business trust on Stellar Soroban.
+<img src="https://img.shields.io/badge/TrustMesh-14B8A6?style=for-the-badge&logo=stellar&logoColor=white" />
 
-Reputation network · Soroban smart contracts · Orange Belt project
+```
+business trust · Stellar Soroban
+reputation network on-chain
+Orange Belt project
+```
 
-<br/>
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/nishant-uxs/TrustMesh)
-[![Live](https://img.shields.io/badge/Live-trust--mesh-000000?style=flat-square&logo=vercel&logoColor=white)](https://trust-mesh-taupe.vercel.app)
+<p>
+  <a href="https://github.com/nishant-uxs/TrustMesh"><img src="https://img.shields.io/badge/code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://trust-mesh-taupe.vercel.app"><img src="https://img.shields.io/badge/live-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+</p>
 
 </td>
 </tr>
@@ -102,55 +122,49 @@ Reputation network · Soroban smart contracts · Orange Belt project
 
 ---
 
-## `> research`
+<h3 align="center">📄 research</h3>
 
-> **BlockForge: A Blockchain-Based Decentralized Platform for Transparent Academic Assessment**
->
-> Accepted — 4th International Conference on Networks and Cryptology **(NetCrypt 2026)** · Presentation, Oct 2026
->
-> [`labeval`](https://github.com/nishant-uxs/labeval) · [`live demo`](https://blockchain-labeval.onrender.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/NetCrypt_2026-Accepted-238636?style=for-the-badge" />
+</p>
 
----
+<p align="center">
+  <b>BlockForge: A Blockchain-Based Decentralized Platform for Transparent Academic Assessment</b><br/>
+  4th International Conference on Networks and Cryptology · Presentation, Oct 2026
+</p>
 
-## `> open_source`
-
-<table>
-<tr>
-<td>
-
-**[wevm/viem](https://github.com/wevm/viem)** · Merged [**#4903**](https://github.com/wevm/viem/pull/4903)
-
-Fixed ESM module type generation for the generated `_types` package — TypeScript NodeNext compatibility.
-
-</td>
-<td align="right">
-
-![Merged](https://img.shields.io/badge/status-merged-238636?style=flat-square)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/nishant-uxs/labeval"><img src="https://img.shields.io/badge/Repository-labeval-181717?style=flat-square&logo=github" /></a>
+  <a href="https://blockchain-labeval.onrender.com"><img src="https://img.shields.io/badge/Demo-live-8B5CF6?style=flat-square" /></a>
+</p>
 
 ---
 
-## `> now`
+<h3 align="center">🌐 open source</h3>
+
+<p align="center">
+  <a href="https://github.com/wevm/viem/pull/4903">
+    <img src="https://img.shields.io/badge/wevm%2Fviem-PR_%234903_merged-238636?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <code>Fixed ESM module type generation for _types package · TypeScript NodeNext compatibility</code>
+</p>
+
+---
+
+<h3 align="center">🔥 now</h3>
 
 ```diff
 + shipping backend systems at Digital South Trust
-+ building privacy-preserving identity with ZK cryptography
++ engineering ZK credential infrastructure on Ethereum
 + preparing NetCrypt 2026 conference presentation
++ contributing to open-source Web3 tooling
 ```
 
----
-
-<div align="center">
-
 <br/>
 
-*"ship systems that survive contact with production."*
-
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/nishant-uxs?style=social)](https://github.com/nishant-uxs)
-
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Consistency%20beats%20talent.%20Shipping%20beats%20perfection.&author=—" />
+</p>
