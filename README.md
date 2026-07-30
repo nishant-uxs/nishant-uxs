@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  B.Tech CSE @ Bennett University (CGPA 8.86) · Web3 Intern @ Digital South Trust · India
+  B.Tech CSE @ Bennett University · Web3 Intern @ Digital South Trust · India
 </p>
 
 <p align="center">
