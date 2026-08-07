@@ -23,7 +23,7 @@
 |:---|:---|
 | **Focus** | Backend systems · Ethereum smart contracts · ZK credentials |
 | **Research** | BlockForge — **Accepted**, [NetCrypt 2026](https://github.com/nishant-uxs/labeval) |
-| **Open Source** | [hardhat #8464](https://github.com/NomicFoundation/hardhat/pull/8464) · [viem #4903](https://github.com/wevm/viem/pull/4903) · [hardhat-website #288](https://github.com/NomicFoundation/hardhat-website/pull/288) |
+| **Open Source** | 9 merged · [Hardhat](https://github.com/NomicFoundation/hardhat/pull/8464) · [Hyperlane](https://github.com/hyperlane-xyz/hyperlane-monorepo/pull/9181) · [FilOzone](https://github.com/FilOzone/pdp/pull/287) · [Mastra](https://github.com/mastra-ai/mastra/pull/20487) · [more](https://github.com/nishant-uxs/nishant-uxs/blob/main/OPEN_SOURCE.md) |
 | **Looking for** | Backend / blockchain engineering roles |
 
 <br/>
@@ -98,14 +98,16 @@ Business trust & reputation on Stellar Soroban
 Accepted · 4th International Conference on Networks and Cryptology (NetCrypt 2026) · Presentation Oct 2026  
 → [labeval](https://github.com/nishant-uxs/labeval)
 
-**Open source** (merged)
+**Open source** (9 merged)
 | Upstream | PR | Change |
 |:---|:---|:---|
-| [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) | [#8464](https://github.com/NomicFoundation/hardhat/pull/8464) | Prefer `process.env` when resolving configuration variables |
-| [wevm/viem](https://github.com/wevm/viem) | [#4903](https://github.com/wevm/viem/pull/4903) | ESM `_types` package fix |
-| [NomicFoundation/hardhat-website](https://github.com/NomicFoundation/hardhat-website) | [#288](https://github.com/NomicFoundation/hardhat-website/pull/288) | Node.js min version docs → v22.13.0 |
+| [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) | [#8464](https://github.com/NomicFoundation/hardhat/pull/8464) | Prefer `process.env` for config variables |
+| [hyperlane-xyz/hyperlane-monorepo](https://github.com/hyperlane-xyz/hyperlane-monorepo) | [#9181](https://github.com/hyperlane-xyz/hyperlane-monorepo/pull/9181) | Avoid `HyperlaneMessage::from` panics |
+| [FilOzone/pdp](https://github.com/FilOzone/pdp) + [filecoin-services](https://github.com/FilOzone/filecoin-services) | [#287](https://github.com/FilOzone/pdp/pull/287) · [#566](https://github.com/FilOzone/filecoin-services/pull/566) | `PiecesScheduledForRemoval` + ABI |
+| [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | [#20487](https://github.com/mastra-ai/mastra/pull/20487) · [#20518](https://github.com/mastra-ai/mastra/pull/20518) | Declined tools + nested snapshots |
+| [WalletConnect](https://github.com/WalletConnect/walletconnect-monorepo) · [viem](https://github.com/wevm/viem) | [#7302](https://github.com/WalletConnect/walletconnect-monorepo/pull/7302) · [#4903](https://github.com/wevm/viem/pull/4903) | EventEmitter types · ESM `_types` |
 
-→ [All contributions](https://github.com/nishant-uxs/nishant-uxs/blob/main/OPEN_SOURCE.md)
+→ [All contributions](https://github.com/nishant-uxs/nishant-uxs/blob/main/OPEN_SOURCE.md) (incl. hardhat-website #288)
 
 <br/>
 
@@ -135,7 +137,7 @@ Accepted · 4th International Conference on Networks and Cryptology (NetCrypt 20
 - Backend @ **Digital South Trust** (Crypto Suraksha)
 - ZK credentials on Ethereum (**Krydo**)
 - NetCrypt 2026 presentation prep
-- Web3 open source (Hardhat, viem)
+- Web3 / AI open source — 9 merged PRs (Hardhat, Hyperlane, FilOzone, Mastra, WalletConnect, viem)
 
 <br/>
 
