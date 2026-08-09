@@ -1,6 +1,6 @@
 # Open Source Contributions
 
-Merged pull requests only (session Jul 25 → Aug 2026). Do not list open or pending PRs.
+Merged pull requests only. Do not list open or pending PRs.
 
 | Repository | PR | Status | Description | Merged |
 |------------|-----|--------|-------------|--------|
@@ -13,5 +13,3 @@ Merged pull requests only (session Jul 25 → Aug 2026). Do not list open or pen
 | [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) | [#7302](https://github.com/WalletConnect/walletconnect-monorepo/pull/7302) | Merged | EventEmitter `@types/node` annotations | Jul 31 |
 | [wevm/viem](https://github.com/wevm/viem) | [#4903](https://github.com/wevm/viem/pull/4903) | Merged | ESM `_types` package.json module marker (NodeNext) | Jul 27 |
 | [NomicFoundation/hardhat-website](https://github.com/NomicFoundation/hardhat-website) | [#288](https://github.com/NomicFoundation/hardhat-website/pull/288) | Merged | Node.js minimum version docs → v22.13.0 | Jul 27 |
-
-**Total: 9 merged**
