@@ -23,18 +23,6 @@ Contributions are ordered by technical breadth (systems â†’ developer tooling â†
 
 ---
 
-## Open (in progress)
-
-| Repository | PR | Description | Status |
-|------------|-----|-------------|--------|
-| [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | [#113934](https://github.com/ClickHouse/ClickHouse/pull/113934) | Fix MergeTree MODIFY TTL mutation wedge after crash | Open |
-| [dotnet/runtime](https://github.com/dotnet/runtime) | [#132655](https://github.com/dotnet/runtime/pull/132655) | Prevent ThreadPool dispatch from finishing an already-completed Task | Open |
-| [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind) | [#12739](https://github.com/NethermindEth/nethermind/pull/12739) | Include beacon tip in `eth_syncing` highest block | Open |
-| [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | [#6639](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/6639) | Consistent IERC1967-Upgraded NatSpec in UUPSUpgradeable | Open |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | [#35349](https://github.com/BerriAI/litellm/pull/35349) | Recover partial usage on sync mid-stream failure | Open |
-
----
-
 ## Not merged (do not cite as contributions)
 
 | Repository | PR | Notes |

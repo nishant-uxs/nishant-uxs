@@ -1,12 +1,21 @@
-# Nishant Agarwal
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,1e1b4b,312e81&height=140&section=header&text=Nishant%20Agarwal&fontSize=40&fontColor=e2e8f0" />
 
-**Software / Backend Engineer** · open-source contributor to ClickHouse, Hardhat, viem, WalletConnect, Mastra
+<p align="center">
+  <strong>Software / Backend Engineer</strong> · open-source contributor to ClickHouse, Hardhat, viem, WalletConnect
+</p>
 
-B.Tech CSE @ Bennett University · Web3 intern @ Digital South Trust · India
+<p align="center">
+  B.Tech CSE @ Bennett University · Web3 Intern @ Digital South Trust · India
+</p>
 
-[Portfolio](https://nishantx.in) · [Resume (PDF)](./resume.pdf) · [LinkedIn](https://www.linkedin.com/in/nishant-agarwal-62a956322/) · [Email](mailto:agarwalnishant812@gmail.com)
+<p align="center">
+  <a href="https://nishantx.in"><img src="https://img.shields.io/badge/Portfolio-nishantx.in-1e293b?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" /></a>
+  <a href="https://github.com/nishant-uxs/nishant-uxs/blob/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-1e293b?style=for-the-badge&logo=adobeacrobatreader&logoColor=ef4444" /></a>
+  <a href="https://www.linkedin.com/in/nishant-agarwal-62a956322/"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:agarwalnishant812@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=ea4335" /></a>
+</p>
 
----
+<br/>
 
 ## About
 
@@ -30,16 +39,6 @@ Merged upstream only. Full list: [OPEN_SOURCE.md](./OPEN_SOURCE.md).
 | **[Hyperlane](https://github.com/hyperlane-xyz/hyperlane-monorepo)** | [#9181](https://github.com/hyperlane-xyz/hyperlane-monorepo/pull/9181) | Hardened `HyperlaneMessage::from` to avoid panics on malformed multi-chain payloads. |
 | **[FilOzone](https://github.com/FilOzone/pdp)** | [#287](https://github.com/FilOzone/pdp/pull/287) + [filecoin-services #566](https://github.com/FilOzone/filecoin-services/pull/566) | Emit `PiecesScheduledForRemoval` and wire PDPVerifier ABI/event. |
 | **[hardhat-website](https://github.com/NomicFoundation/hardhat-website)** | [#288](https://github.com/NomicFoundation/hardhat-website/pull/288) | Document Node.js minimum version v22.13.0. |
-
-### Open PRs (in progress)
-
-| Project | PR | Status |
-|---------|-----|--------|
-| [ClickHouse](https://github.com/ClickHouse/ClickHouse) | [#113934](https://github.com/ClickHouse/ClickHouse/pull/113934) | Open — MergeTree MODIFY TTL mutation wedge after crash |
-| [dotnet/runtime](https://github.com/dotnet/runtime) | [#132655](https://github.com/dotnet/runtime/pull/132655) | Open — ThreadPool dispatch finishing an already-completed Task |
-| [Nethermind](https://github.com/NethermindEth/nethermind) | [#12739](https://github.com/NethermindEth/nethermind/pull/12739) | Open — `eth_syncing` highest block includes beacon tip |
-| [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) | [#6639](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/6639) | Open — IERC1967-Upgraded NatSpec in UUPSUpgradeable |
-| [LiteLLM](https://github.com/BerriAI/litellm) | [#35349](https://github.com/BerriAI/litellm/pull/35349) | Open — partial usage recovery on sync mid-stream failure |
 
 ---
 
