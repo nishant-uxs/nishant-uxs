@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,1e1b4b,312e81&height=140&section=header&text=Nishant%20Agarwal&fontSize=40&fontColor=e2e8f0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,1e1b4b,312e81&height=120&section=header&text=Nishant%20Agarwal&fontSize=36&fontColor=e2e8f0" />
 
 <p align="center">
-  <strong>Software / Backend Engineer</strong> · open-source contributor to ClickHouse, Hardhat, viem, WalletConnect
+  <strong>Software Engineer</strong> · Backend Systems · Smart Contracts · Zero-Knowledge Credentials
 </p>
 
 <p align="center">
@@ -17,60 +17,134 @@
 
 <br/>
 
-## About
+## At a glance
 
-I build backend systems and developer infrastructure — REST APIs, distributed storage patterns, smart-contract integrations, and production bug fixes in large open-source codebases. I also ship full-stack products with live deployments, automated tests, and documented architecture.
+| | |
+|:---|:---|
+| **Focus** | Backend systems · APIs & distributed storage · Ethereum smart contracts · ZK credentials |
+| **Research** | BlockForge — **Accepted**, [NetCrypt 2026](https://github.com/nishant-uxs/labeval) |
+| **Open Source** | Selected upstream contributions merged into [ClickHouse](https://github.com/ClickHouse/ClickHouse/pull/114003), [Hardhat](https://github.com/NomicFoundation/hardhat/pull/8464), [viem](https://github.com/wevm/viem/pull/4903), [WalletConnect](https://github.com/WalletConnect/walletconnect-monorepo/pull/7302) · [all merged PRs](https://github.com/nishant-uxs/nishant-uxs/blob/main/OPEN_SOURCE.md) |
+| **Looking for** | SDE / backend engineering internships & roles |
 
-**Research:** *BlockForge* — accepted at [NetCrypt 2026](https://github.com/nishant-uxs/labeval) (4th International Conference on Networks and Cryptology).
+<br/>
 
----
+## Selected work
 
-## Selected open source contributions
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Merged upstream only. Full list: [OPEN_SOURCE.md](./OPEN_SOURCE.md).
+### Krydo
+Privacy-preserving financial identity on Ethereum
 
-| Project | PR | What changed |
-|---------|-----|--------------|
-| **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** | [#114003](https://github.com/ClickHouse/ClickHouse/pull/114003) | Fixed Keeper `writeAt` durability ordering so cross-segment Raft log truncation no longer leaves stale changelog segments that brick startup with `CORRUPTED_DATA` (closes [#112101](https://github.com/ClickHouse/ClickHouse/issues/112101)). |
-| **[Hardhat](https://github.com/NomicFoundation/hardhat)** | [#8464](https://github.com/NomicFoundation/hardhat/pull/8464) | Configuration variables now prefer `process.env` over plugin hooks / keystore; added unit tests for hook short-circuiting. |
-| **[viem](https://github.com/wevm/viem)** | [#4903](https://github.com/wevm/viem/pull/4903) | Fixed ESM `_types` package generation for TypeScript `NodeNext` module resolution. |
-| **[WalletConnect](https://github.com/WalletConnect/walletconnect-monorepo)** | [#7302](https://github.com/WalletConnect/walletconnect-monorepo/pull/7302) | Added `@types/node` annotations on `EventEmitter` usage. |
-| **[Mastra](https://github.com/mastra-ai/mastra)** | [#20487](https://github.com/mastra-ai/mastra/pull/20487), [#20518](https://github.com/mastra-ai/mastra/pull/20518) | Skip execution of declined tools; reuse terminal nested workflow snapshots. |
-| **[Hyperlane](https://github.com/hyperlane-xyz/hyperlane-monorepo)** | [#9181](https://github.com/hyperlane-xyz/hyperlane-monorepo/pull/9181) | Hardened `HyperlaneMessage::from` to avoid panics on malformed multi-chain payloads. |
-| **[FilOzone](https://github.com/FilOzone/pdp)** | [#287](https://github.com/FilOzone/pdp/pull/287) + [filecoin-services #566](https://github.com/FilOzone/filecoin-services/pull/566) | Emit `PiecesScheduledForRemoval` and wire PDPVerifier ABI/event. |
-| **[hardhat-website](https://github.com/NomicFoundation/hardhat-website)** | [#288](https://github.com/NomicFoundation/hardhat-website/pull/288) | Document Node.js minimum version v22.13.0. |
+Sigma-protocol ZK proofs over Pedersen commitments, Express API + SIWE auth, Firestore query layer, 154 Vitest tests, 3 Sepolia contracts, W3C VC export.
 
----
+<br/>
 
-## Selected projects
+[![Code](https://img.shields.io/badge/Code-0f172a?style=for-the-badge&logo=github)](https://github.com/nishant-uxs/krydo)
+[![Live](https://img.shields.io/badge/Live-4f46e5?style=for-the-badge&logo=render&logoColor=white)](https://krydo.onrender.com)
 
-| Project | Summary | Links |
-|---------|---------|-------|
-| **[Krydo](https://github.com/nishant-uxs/krydo)** | Privacy-preserving credentials on Ethereum — sigma-protocol ZK proofs over Pedersen commitments, Express API, SIWE auth, Firestore query layer, 154 Vitest tests, 3 Sepolia contracts. | [Live](https://krydo.onrender.com) |
-| **[BlockForge / LabEval](https://github.com/nishant-uxs/labeval)** | Decentralized lab assessment — OpenZeppelin RBAC, IPFS CIDs on-chain (~92% storage reduction vs full on-chain artifacts), Gemini-assisted grading. NetCrypt 2026 paper. | [Live](https://blockchain-labeval.onrender.com) |
-| **[CivicSense](https://github.com/nishant-uxs/CivicSense)** | Civic reporting platform — 3-step on-chain lifecycle, hybrid Supabase + Sepolia storage, 10 API route groups, Gemini triage. | [Live](https://civic-sense-six.vercel.app) |
-| **[CommitLock](https://github.com/nishant-uxs/CommitLock)** | No-show protection on Stellar Soroban — refundable XLM escrow, fee-bump sponsorship, Horizon event indexing, metrics dashboard. | [Live](https://commitlock.onrender.com) |
-| **[TrustMesh](https://github.com/nishant-uxs/TrustMesh)** | Business trust network on Stellar Soroban — reputation scoring, multi-contract Testnet deployment. | [Live](https://trust-mesh-taupe.vercel.app) |
-| **[gov-crypto-intel-hub](https://github.com/nishant-uxs/gov-crypto-intel-hub)** | Government crypto intelligence dashboard — Next.js, Prisma, Claude API integration. | [Live](https://gov-crypto-intel-hub.vercel.app) |
+</td>
+<td width="50%" valign="top">
 
----
+### CivicSense
+Blockchain-verified civic issue reporting
 
-## Technical stack
+3-step on-chain lifecycle with hybrid Supabase/Sepolia storage, 10 API route groups, Gemini AI triage, citizen/admin/org portals.
 
-**Languages:** TypeScript, JavaScript, Python, Solidity, Rust, C++, SQL
+<br/>
 
-**Backend:** Node.js, Express, REST APIs, Zod validation, JWT/SIWE auth, PostgreSQL (Supabase), Firestore
+[![Code](https://img.shields.io/badge/Code-0f172a?style=for-the-badge&logo=github)](https://github.com/nishant-uxs/CivicSense)
+[![Live](https://img.shields.io/badge/Live-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://civic-sense-six.vercel.app)
 
-**Systems / infra:** ClickHouse Keeper, distributed storage, IPFS, CI (GitHub Actions), Docker
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="50%" valign="top">
 
-**Blockchain:** Ethereum (Hardhat, ethers/viem), Stellar Soroban, Filecoin PDP, ZK proofs (sigma protocols)
+### BlockForge
+Decentralized lab assessment on Ethereum
 
-**Frontend:** React, Vite, Tailwind, shadcn/ui
+OpenZeppelin RBAC, IPFS CIDs on-chain (~92% storage reduction vs full artifacts), Gemini-assisted grading. NetCrypt 2026 paper.
 
----
+<br/>
 
-## Contact
+[![Code](https://img.shields.io/badge/Code-0f172a?style=for-the-badge&logo=github)](https://github.com/nishant-uxs/labeval)
+[![Live](https://img.shields.io/badge/Live-7c3aed?style=for-the-badge&logo=render&logoColor=white)](https://blockchain-labeval.onrender.com)
 
-- GitHub: [@nishant-uxs](https://github.com/nishant-uxs)
-- Portfolio: [nishantx.in](https://nishantx.in)
-- Email: agarwalnishant812@gmail.com
+</td>
+<td width="50%" valign="top">
+
+### TrustMesh
+Business trust & reputation on Stellar Soroban
+
+Multi-contract Soroban deployment, on-chain reputation scoring, live Testnet app (Orange Belt).
+
+<br/>
+
+[![Code](https://img.shields.io/badge/Code-0f172a?style=for-the-badge&logo=github)](https://github.com/nishant-uxs/TrustMesh)
+[![Live](https://img.shields.io/badge/Live-0d9488?style=for-the-badge&logo=vercel&logoColor=white)](https://trust-mesh-taupe.vercel.app)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Research & open source
+
+**Research** — *BlockForge: A Blockchain-Based Decentralized Platform for Transparent Academic Assessment*  
+Accepted · 4th International Conference on Networks and Cryptology (NetCrypt 2026) · Presentation Oct 2026  
+→ [labeval](https://github.com/nishant-uxs/labeval)
+
+**Open source** (merged upstream)
+
+| Upstream | PR | Change |
+|:---|:---|:---|
+| [ClickHouse](https://github.com/ClickHouse/ClickHouse) | [#114003](https://github.com/ClickHouse/ClickHouse/pull/114003) | Fixed Keeper `writeAt` ordering to prevent post-crash `CORRUPTED_DATA` on startup ([#112101](https://github.com/ClickHouse/ClickHouse/issues/112101)) |
+| [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) | [#8464](https://github.com/NomicFoundation/hardhat/pull/8464) | Prefer `process.env` for config variables over plugin hooks / keystore |
+| [wevm/viem](https://github.com/wevm/viem) | [#4903](https://github.com/wevm/viem/pull/4903) | ESM `_types` package.json module marker (TypeScript NodeNext) |
+| [WalletConnect](https://github.com/WalletConnect/walletconnect-monorepo) | [#7302](https://github.com/WalletConnect/walletconnect-monorepo/pull/7302) | `EventEmitter` `@types/node` annotations |
+| [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | [#20487](https://github.com/mastra-ai/mastra/pull/20487) · [#20518](https://github.com/mastra-ai/mastra/pull/20518) | Skip declined tools; reuse terminal nested snapshots |
+| [hyperlane-xyz/hyperlane-monorepo](https://github.com/hyperlane-xyz/hyperlane-monorepo) | [#9181](https://github.com/hyperlane-xyz/hyperlane-monorepo/pull/9181) | Avoid `HyperlaneMessage::from` panics on malformed payloads |
+| [FilOzone/pdp](https://github.com/FilOzone/pdp) + [filecoin-services](https://github.com/FilOzone/filecoin-services) | [#287](https://github.com/FilOzone/pdp/pull/287) · [#566](https://github.com/FilOzone/filecoin-services/pull/566) | `PiecesScheduledForRemoval` event + PDPVerifier ABI |
+| [NomicFoundation/hardhat-website](https://github.com/NomicFoundation/hardhat-website) | [#288](https://github.com/NomicFoundation/hardhat-website/pull/288) | Node.js minimum version docs → v22.13.0 |
+
+→ [Full list with dates](https://github.com/nishant-uxs/nishant-uxs/blob/main/OPEN_SOURCE.md)
+
+<br/>
+
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,solidity,nodejs,react,postgres,git,githubactions&perline=9" />
+</p>
+
+<p align="center">
+  <code>TypeScript</code>
+  <code>Solidity</code>
+  <code>Node.js</code>
+  <code>Ethereum</code>
+  <code>ZK proofs</code>
+  <code>Hardhat</code>
+  <code>IPFS</code>
+  <code>Stellar Soroban</code>
+  <code>React</code>
+  <code>PostgreSQL</code>
+</p>
+
+<br/>
+
+## Currently
+
+- Backend @ **Digital South Trust** (Crypto Suraksha — REST APIs & Web3 transaction workflows)
+- Shipping ZK credential infrastructure on Ethereum (**Krydo**)
+- Preparing NetCrypt 2026 conference presentation (BlockForge)
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LNMHacks_8.0-Finalist_Top_30-1e293b?style=flat-square" />
+  <img src="https://img.shields.io/badge/IIT_KGP_Tech_Triad-Top_20-1e293b?style=flat-square" />
+</p>

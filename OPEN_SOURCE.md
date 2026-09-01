@@ -1,6 +1,6 @@
 # Open Source Contributions
 
-**Merged pull requests only.** Open or closed PRs are listed separately in [README.md](./README.md#open-prs-in-progress).
+**Merged pull requests only.**
 
 Contributions are ordered by technical breadth (systems → developer tooling → Web3/AI infra).
 
