@@ -23,7 +23,7 @@
 |:---|:---|
 | **Focus** | Backend systems · APIs & distributed storage · Ethereum smart contracts · ZK credentials |
 | **Research** | BlockForge — **Accepted**, [NetCrypt 2026](https://github.com/nishant-uxs/labeval) |
-| **Open Source** | Selected upstream contributions merged into [ClickHouse](https://github.com/ClickHouse/ClickHouse/pull/114003), [Hardhat](https://github.com/NomicFoundation/hardhat/pull/8464), [viem](https://github.com/wevm/viem/pull/4903), [WalletConnect](https://github.com/WalletConnect/walletconnect-monorepo/pull/7302) · [all merged PRs](https://github.com/nishant-uxs/nishant-uxs/blob/main/OPEN_SOURCE.md) |
+| **Open Source** | Selected upstream contributions merged into [Nethermind](https://github.com/NethermindEth/nethermind/pull/12739), [ClickHouse](https://github.com/ClickHouse/ClickHouse/pull/114003), [OpenTelemetry](https://github.com/open-telemetry/opentelemetry-collector/pull/16144) · [all merged PRs](https://github.com/nishant-uxs/nishant-uxs/blob/main/OPEN_SOURCE.md) |
 | **Looking for** | SDE / backend engineering internships & roles |
 
 <br/>
@@ -102,7 +102,9 @@ Accepted · 4th International Conference on Networks and Cryptology (NetCrypt 20
 
 | Upstream | PR | Change |
 |:---|:---|:---|
+| [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind) | [#12739](https://github.com/NethermindEth/nethermind/pull/12739) | `eth_syncing` includes the beacon tip so consensus-layer catch-up is not reported as synced |
 | [ClickHouse](https://github.com/ClickHouse/ClickHouse) | [#114003](https://github.com/ClickHouse/ClickHouse/pull/114003) | Fixed Keeper `writeAt` ordering to prevent post-crash `CORRUPTED_DATA` on startup ([#112101](https://github.com/ClickHouse/ClickHouse/issues/112101)) |
+| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | [#16144](https://github.com/open-telemetry/opentelemetry-collector/pull/16144) | Redacted non-empty `env` provider defaults in the unexpanded config snapshot |
 | [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) | [#8464](https://github.com/NomicFoundation/hardhat/pull/8464) | Prefer `process.env` for config variables over plugin hooks / keystore |
 | [wevm/viem](https://github.com/wevm/viem) | [#4903](https://github.com/wevm/viem/pull/4903) | ESM `_types` package.json module marker (TypeScript NodeNext) |
 | [WalletConnect](https://github.com/WalletConnect/walletconnect-monorepo) | [#7302](https://github.com/WalletConnect/walletconnect-monorepo/pull/7302) | `EventEmitter` `@types/node` annotations |

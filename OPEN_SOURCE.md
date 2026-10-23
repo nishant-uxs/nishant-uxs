@@ -2,7 +2,7 @@
 
 **Merged pull requests only.**
 
-Contributions are ordered by technical breadth (systems → developer tooling → Web3/AI infra).
+Strongest recent merges are listed first.
 
 ---
 
@@ -10,7 +10,9 @@ Contributions are ordered by technical breadth (systems → developer tooling �
 
 | Repository | PR | Description | Merged |
 |------------|-----|-------------|--------|
+| [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind) | [#12739](https://github.com/NethermindEth/nethermind/pull/12739) | Fixed `eth_syncing` reporting synced during consensus-layer catch-up by including the beacon tip in `HighestBlock`. | Sep 2026 |
 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | [#114003](https://github.com/ClickHouse/ClickHouse/pull/114003) | Fixed Keeper `writeAt` cross-segment rewrite: wait for superseded changelog segment removals before acknowledging the rewrite, preventing post-crash `CORRUPTED_DATA` on startup ([issue #112101](https://github.com/ClickHouse/ClickHouse/issues/112101)). Includes `ChangelogTestWriteAtPreviousFile` regression test. | Aug 2026 |
+| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | [#16144](https://github.com/open-telemetry/opentelemetry-collector/pull/16144) | Redacted non-empty `env` provider defaults so they no longer remain in the unexpanded config snapshot. | Oct 2026 |
 | [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) | [#8464](https://github.com/NomicFoundation/hardhat/pull/8464) | Configuration variables prefer `process.env` over plugin hooks / keystore; unit tests for hook short-circuiting. | Jul 2026 |
 | [wevm/viem](https://github.com/wevm/viem) | [#4903](https://github.com/wevm/viem/pull/4903) | ESM `_types` package.json `module` marker for TypeScript NodeNext compatibility. | Jul 2026 |
 | [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) | [#7302](https://github.com/WalletConnect/walletconnect-monorepo/pull/7302) | `EventEmitter` `@types/node` annotations. | Jul 2026 |
