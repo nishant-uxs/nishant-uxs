@@ -95,7 +95,7 @@ Multi-contract Soroban deployment, on-chain reputation scoring, live Testnet app
 ## Research & open source
 
 **Research** — *BlockForge: A Blockchain-Based Decentralized Platform for Transparent Academic Assessment*  
-Accepted · 4th International Conference on Networks and Cryptology (NetCrypt 2026) · Presentation Oct 2026  
+Accepted and presented · 4th International Conference on Networks and Cryptology (NetCrypt 2026) · Oct 2026  
 → [labeval](https://github.com/nishant-uxs/labeval)
 
 **Open source** (merged upstream)
@@ -142,7 +142,7 @@ Accepted · 4th International Conference on Networks and Cryptology (NetCrypt 20
 
 - Backend @ **Digital South Trust** (Crypto Suraksha — REST APIs & Web3 transaction workflows)
 - Shipping ZK credential infrastructure on Ethereum (**Krydo**)
-- Preparing NetCrypt 2026 conference presentation (BlockForge)
+- Presented BlockForge at NetCrypt 2026
 
 <br/>
 
