@@ -15,21 +15,6 @@
   <a href="mailto:agarwalnishant812@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=ea4335" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/NethermindEth/nethermind/pull/12739"><img src="https://img.shields.io/badge/Nethermind-merged_%2312739-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
-  <a href="https://github.com/ClickHouse/ClickHouse/pull/114003"><img src="https://img.shields.io/badge/ClickHouse-merged_%23114003-FCBB14?style=for-the-badge&logo=clickhouse&logoColor=111111" /></a>
-  <a href="https://github.com/open-telemetry/opentelemetry-collector/pull/16144"><img src="https://img.shields.io/badge/OpenTelemetry-merged_%2316144-F5A800?style=for-the-badge&logo=opentelemetry&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishant-uxs&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&rank_icon=percentile" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=nishant-uxs&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=E2E8F0&currStreakLabel=38BDF8&sideNums=E2E8F0&sideLabels=94A3B8&dates=94A3B8" height="165" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-uxs&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=8" height="150" alt="Top languages" />
-</p>
-
 <br/>
 
 ## At a glance
@@ -135,7 +120,7 @@ Accepted and presented · 4th International Conference on Networks and Cryptolog
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,go,cpp,solidity,nodejs,react,postgres,rust,git&perline=9" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,solidity,nodejs,react,postgres,git,githubactions&perline=9" />
 </p>
 
 <p align="center">
@@ -162,8 +147,6 @@ Accepted and presented · 4th International Conference on Networks and Cryptolog
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BU_SIH_2026_Internal-4th_of_600+-1e293b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NetCrypt_2026-Presented-1e293b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LNMHacks_8.0-Finalist_Top_30-1e293b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IIT_KGP_Tech_Triad-Top_20-1e293b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LNMHacks_8.0-Finalist_Top_30-1e293b?style=flat-square" />
+  <img src="https://img.shields.io/badge/IIT_KGP_Tech_Triad-Top_20-1e293b?style=flat-square" />
 </p>
